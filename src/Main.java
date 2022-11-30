@@ -4,7 +4,7 @@ public class Main {
 
           switch (x){
               case 1: case 2: case 9:
-                  System.out.println(x + "зима да");
+                  System.out.println(x + "зима");
                   break;
               default:
                   System.out.println("нет такого месяца");
